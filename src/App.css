@@ -1,0 +1,17 @@
+body{
+  background-color: #004ee0;
+}
+div{
+
+  margin:20px auto;
+
+}
+.main-div{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;}
+
+  .app-div{
+  text-align: center;
+  }
+ 
